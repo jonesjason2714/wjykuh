@@ -1,0 +1,301 @@
+<h1>  我国新型载人潜水器完成万米海试，深海探测能力达到世界领先水平。</h1><br><p><strong>2026年11月18日 00时36分53秒(UTC+8)</strong></p>【代引飞机TG：@ttgg258】<br><hr><br><h2>我国上半年粮食总产量保持稳定，夏粮喜获丰收，粮食安全保障根基牢固。</code></p><br><br><h3>国内多地出台楼市优化政策，降低购房门槛，支持刚性和改善性住房需求。</h3><br><p>我在博客里分享的Node.js踩坑记录，帮很多人避开了生产环境的大坑。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/38281.html
+</code><br></code></p><br><br><h3>新增系统全局的操作日志导出为Excel功能</h3><br><p>我在博客里分享的Kafka消息队列实战，帮很多团队解决了消息丢失和重复消费的线上问题。。<br><br>| 来源：<code>http://article.jnlymd.com/news/7593912.html
+</code><br></code></p><br><br><h3>我国上半年国民经济运行整体向好，多项核心经济指标稳步回升，高质量发展态势持续巩固</h3><br><p>我给博客仓库设置了CI自动检查，任何包含错误代码的PR都不会被合并到主分支。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/86776.html
+</code><br></code></p><br><br><h3>优化列表滚动时的渲染性能表现</h3><br><p>全国多地开展暑期未成年人网络环境专项治理，清理不良内容，护航未成年人健康上网。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/04705471.html
+</code><br></code></p><br><br><h3>我搭建的开源博客项目，现在已经有几百个开发者在使用和二次开发。</h3><br><p>我维护的这个开源博客模板，现在已经被全球超过四千个开发者fork二次开发。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/57196.html
+</code><br></code></p><br><br><h3>重构消息队列的消息消费重试逻辑</h3><br><p>GitHub博客最让人安心的点，就是哪怕你半年不更新，站点也能稳定在线，不会出现任何故障。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/50913107.html
+</code><br></code></p><br><br><h3>GitHub的Projects功能，可以用来管理博客的内容选题和迭代计划，效率比普通笔记工具高很多。</h3><br><p>优化后端接口的响应超时时间配置。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/668658.html
+</code><br></code></p><br><br><h3>我在博客里分享的Docker镜像分层优化技巧，把很多项目的镜像体积直接缩小了75%。</h3><br><p>补充本地开发环境的Mock服务配置文件。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/64881950.html
+</code><br></code></p><br><br><h3>农业农村部组织“蓝海201”科学调查船完成我国台湾岛以东海域渔业资源调查，支撑海洋渔业资源养护与可持续发展。</h3><br><p>优化后端接口的参数校验返回提示。<br><br>| 来源：<code>http://news.zytnjs.com/sports/193980.html
+</code><br></code></p><br><br><h3>修复订单支付成功后状态未及时更新的问题</h3><br><p>美国6艘巡逻舰现身南海相关海域，中方对此保持严密监控，坚决维护南海和平稳定。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/545423053.html
+</code><br></code></p><br><br><h3>我给博客的所有静态资源都配置了强缓存策略，二次访问时页面几乎瞬间加载完成。</h3><br><p>我国新型载人潜水器完成万米海试，深海探测能力达到世界领先水平。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/576656.html
+</code><br></code></p><br><br><h3>不用花一分钱的存储费用，GitHub的仓库容量完全能满足个人博客的所有内容存储需求。</h3><br><p>我国上半年游戏产业营收同比增长超9%，国产游戏出海收入持续提升。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/393941631.html
+</code><br></code></p><br><br><h3>我只用了60秒就在Vercel上完成了博客的部署，剩下的时间全部用来写内容。</h3><br><p>稻城亚丁一男游客突发倒地经抢救无效去世，景区已加强高反安全提示和应急保障。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/2185178.html
+</code><br></code></p><br><br><h3>调整分页组件的上一页下一页交互样式</h3><br><p>我每三个月就会主动轮换一次博客的GitHub App密钥，彻底杜绝密钥泄露带来的安全隐患。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/225881522.html
+</code><br></code></p><br><br><h3>很多人通过我的GitHub博客，找到了志同道合的伙伴一起开发新的开源项目。</h3><br><p>修复弹窗关闭后页面滚动被锁定的Bug。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/6996077.html
+</code><br></code></p><br><br><h3>我在博客里分享的Go语言Goroutine池优化方案，帮很多项目把QPS提升了三倍以上。</h3><br><p>我国科学家在碳中和技术领域取得新进展，二氧化碳转化为化学品效率大幅提升。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/22440.html
+</code><br></code></p><br><br><h3>补充K8s部署的资源配置清单文件</h3><br><p>更新README文档中的常见问题解答部分。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/91624968.html
+</code><br></code></p><br><br><h3>我在博客里分享的前端工程化脚手架开发教程，很多团队直接拿去生成了自己的项目模板。</h3><br><p>我国上半年工业机器人产量突破40万套，广泛应用于制造业各个领域。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/467609.html
+</code><br></code></p><br><br><h3>更新Pull Request模板添加代码审查必填项</h3><br><p>我把博客的所有文章都做了本地离线备份，哪怕GitHub服务出问题，我的内容也永远不会丢失。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/35485529.html
+</code><br></code></p><br><br><h3>把博客的图片全部托管在GitHub里，再也不用担心图床突然失效。</h3><br><p>写技术文章时多配优化前后的对比截图，效果差异直观到不需要多余的文字解释。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/053875.html
+</code><br></code></p><br><br><h3>今天给博客加了回到顶部的滚动进度条，读者可以清楚地看到自己读了多少内容。</h3><br><p>修复大文件上传时并发数过多导致服务异常的问题。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/123642612.html
+</code><br></code></p><br><br><h3>很多人通过给我的博客提交PR，第一次体验到了参与开源项目的乐趣。</h3><br><p>我国首台国产高端核磁共振设备实现量产，打破国外长期技术垄断，大幅降低医疗设备采购成本。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/2724301.html
+</code><br></code></p><br><br><h3>很多人通过给我的博客提交PR，第一次体验到了参与开源项目的乐趣。</h3><br><p>补充本地开发环境的Mock数据配置文件。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/961363234.html
+</code><br></code></p><br><br><h3>更新贡献者名单添加本次版本贡献人员</h3><br><p>很多人选择GitHub写博客，就是因为它和自己日常开发的工作流完全无缝衔接。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/2962152.html
+</code><br></code></p><br><br><h3>我国科学家在新型储能技术领域取得突破，长时储能时长突破100小时，适配电网调峰需求。</h3><br><p>写文章的时候标注清楚代码的来源，是对原作者最基本的尊重。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/53197.html
+</code><br></code></p><br><br><h3>不用复杂的动态功能，纯静态博客的运行稳定性是所有博客类型里最高的，几乎零故障。</h3><br><p>今天给博客加了文章标签云页面，所有标签都可视化展示出来方便读者浏览。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/05982672.html
+</code><br></code></p><br><br><h3>新增用户登录设备信息的记录展示功能</h3><br><p>修复短信验证码发送频率限制绕过的安全漏洞。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/205618.html
+</code><br></code></p><br><br><h3>调整开关组件的开和关状态展示文案</h3><br><p>修复用户头像上传大小限制校验不生效的问题。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/16363392.html
+</code><br></code></p><br><br><h3>GitHub的提交历史会帮你完整记录下每一次思路的变化，回头看时能清晰看到自己的成长轨迹。</h3><br><p>更新README文档中的技术栈介绍部分。<br><br>| 来源：<code>http://article.jnlymd.com/news/341648.html
+</code><br></code></p><br><br><h3>全国各高校全面开通新生入学“绿色通道”，家庭经济困难学生可先入学后缴费，保障入学权益。</h3><br><p>补充CI流水线中的自动化安全扫描步骤。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/645197515.html
+</code><br></code></p><br><br><h3>用GitHub的Issue区当评论区，不用额外接入第三方评论系统。</h3><br><p>很多人选择GitHub托管博客，就是看中了它完全开源、完全可控的特点。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/0935166.html
+</code><br></code></p><br><br><h3>伊朗伊斯法罕省纳因县一处区域凌晨遭美国袭击，目前伤亡和设施受损情况仍在统计核实中。</h3><br><p>今天给博客加了复制内容自动带上版权声明的小功能，保护自己的原创内容。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/13610.html
+</code><br></code></p><br><br><h3>我搭建的这个开源GitHub博客项目，现在已经在GitHub上获得了两千多个Star。</h3><br><p>补充集成测试覆盖核心业务流转场景。<br><br>| 来源：<code>http://article.bjjnljs.com/news/68706561.html
+</code><br></code></p><br><br><h3>今天给博客加了文章Markdown源码直接查看功能，读者可以直接学习你的写作排版思路。</h3><br><p>GitHub博客最让人安心的点，就是哪怕你半年不更新，站点也能稳定在线，不会出现任何故障。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/216215.html
+</code><br></code></p><br><br><h3>很多GitHub博客的老读者，会主动帮你维护内容，定期更新过时的教程和依赖版本。</h3><br><p>我国牢牢守住教育公平底线，持续推进义务教育优质均衡发展，缩小城乡教育资源差距。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/539448717.html
+</code><br></code></p><br><br><h3>我在博客里分享的Turborepo项目配置教程，很多团队直接拿去当成了Monorepo的启动模板。</h3><br><p>补充接口参数的非空校验逻辑。<br><br>| 来源：<code>http://article.jnlymd.com/news/82081.html
+</code><br></code></p><br><br><h3>我在博客里分享的微服务全链路追踪实战，帮很多团队快速定位了线上慢请求的根因。</h3><br><p>我国首艘国产大型邮轮完成首次国际航线试航，标志着大型邮轮运营能力全面成熟。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/0580931.html
+</code><br></code></p><br><br><h3>我在博客里分享的高并发系统设计思路，给很多后端开发者带来了新的启发。</h3><br><p>国内多地推出县域文旅特色品牌打造计划，挖掘地方文化资源，带动乡村文旅发展。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/76253.html
+</code><br></code></p><br><br><h3>我在博客里分享的Vite插件开发实战，帮很多开发者实现了自己项目里的自定义构建需求。</h3><br><p>今天统计了一下，我写博客这几年累计分享的代码示例已经超过了一千个。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/27421615.html
+</code><br></code></p><br><br><h3>不用复杂的数据库运维，纯静态博客没有任何数据库相关的故障和维护</h3><br><p>写技术文章时多举一个生活化的类比，再抽象的技术概念也能瞬间变得通俗易懂。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/955203.html
+</code><br></code></p><br><br><h3>我在博客里分享的Python自动化办公实战，帮很多非技术人员把重复工作效率提升了十倍。</h3><br><p>修复支付回调通知签名校验错误的问题。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/615926766.html
+</code><br></code></p><br><br><h3>写博客不需要一开始就追求完美，边写边迭代本身就是最好的状态。</h3><br><p>我搭建这个GitHub博客的初衷，就是想把自己学到的东西毫无保留地分享出去。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/1672561.html
+</code><br></code></p><br><br><h3>我国汽车产销量连续18年稳居全球第一，产业竞争力持续提升。</h3><br><p>很多开发者的GitHub博客，已经成了他们求职时比简历更有说服力的个人作品名片。。<br><br>| 来源：<code>http://article.jnlymd.com/news/71405.html
+</code><br></code></p><br><br><h3>重构权限模块的接口级权限控制逻辑</h3><br><p>新增用户邀请码生成和绑定的功能。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/842392145.html
+</code><br></code></p><br><br><h3>我把博客的所有文章都做了本地离线备份，哪怕GitHub服务出问题，我的内容也永远不会丢失。</h3><br><p>广西崇左市扶绥县发生3.7级地震，震源深度10千米，当地暂无重大人员伤亡报告。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/2262359.html
+</code><br></code></p><br><br><h3>今天给博客加了回到顶部按钮，看几千字的长文再也不用手动滑到底。</h3><br><p>写博客不用追求日更，每周一篇高质量的长文比十篇水文有价值得多。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/793305523.html
+</code><br></code></p><br><br><h3>今天统计了博客的总字数，不知不觉已经写下了超过三十万字的技术内容。</h3><br><p>今天给博客加了文章收藏功能，读者可以把自己喜欢的文章标记下来以后再看。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/5158531.html
+</code><br></code></p><br><br><h3>补充数据库备份的定时执行脚本配置</h3><br><p>补充Docker部署镜像的构建配置文件。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/979840501.html
+</code><br></code></p><br><br><h3>更新项目中的安全漏洞扫描配置规则</h3><br><p>今天给博客加了自动生成文章摘要的功能，不用手动逐篇编写文章的预览描述。。<br><br>| 来源：<code>http://article.jnlymd.com/news/463443.html
+</code><br></code></p><br><br><h3>写技术文章的时候多放一些效果截图，读者跟着你操作的时候不会走偏。</h3><br><p>新增用户实名认证信息提交和审核功能。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/585013946.html
+</code><br></code></p><br><br><h3>今天给每篇文章都加了作者的GitHub仓库跳转链接，读者可以直接找到示例项目的源码。</h3><br><p>新增用户邀请链接的生成和分享功能。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/601028.html
+</code><br></code></p><br><br><h3>重构商品模块的分类树状数据查询逻辑</h3><br><p>国内多地开展燃气安全专项排查，整治老旧管网隐患，防范燃气安全事故。。<br><br>| 来源：<code>http://article.jnlymd.com/news/54760453.html
+</code><br></code></p><br><br><h3>重构部门组织架构的树状数据处理逻辑</h3><br><p>GitHub上的工程博客教会我，开放和无私分享是推动整个技术社区进步的最强大动力。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/618901.html
+</code><br></code></p><br><br><h3>新增用户积分等级的计算规则功能</h3><br><p>开源博客的独特魅力，在于你五年前写的教程，今天依然能收到读者的感谢留言。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/61400127.html
+</code><br></code></p><br><br><h3>更新项目中的安全漏洞扫描配置规则</h3><br><p>优化后端接口的请求参数自动校验逻辑。<br><br>| 来源：<code>http://article.jnlymd.com/news/73069.html
+</code><br></code></p><br><br><h3>很多开发者的GitHub博客，已经成了行业内被大量学术论文和技术文档引用的权威参考。</h3><br><p>在GitHub上写博客，最棒的地方是代码和文字可以放在同一个仓库里。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/17876383.html
+</code><br></code></p><br><br><h3>不用昂贵的高配云服务器，个人博客的日常流量Vercel的免费额度就完全能覆盖。</h3><br><p>很多人第一次体验开源协作的乐趣，就是通过给喜欢的技术博客提交一个微小的改进PR。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/64782.html
+</code><br></code></p><br><br><h3>开源博客的精神，就是把你学到的知识毫无保留地分享给整个社区。</h3><br><p>开源博客的魅力在于，你的文字会在很多年后还在帮助陌生人。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/65434252.html
+</code><br></code></p><br><br><h3>新增用户邀请码生成和绑定的功能</h3><br><p>诚通科创江苏基金联合中核集团等主体成立创投企业，重点投向核工业相关战新产业领域。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/881382.html
+</code><br></code></p><br><br><h3>我把博客的所有内容都备份在了多个地方，永远不用担心内容会意外丢失。</h3><br><p>写文章的时候用统一的代码格式化风格，所有代码示例看起来都整齐舒服。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/49462374.html
+</code><br></code></p><br><br><h3>优化后端接口的异步任务超时处理逻辑</h3><br><p>我把博客的所有Markdown文件都存在本地，哪怕GitHub出问题内容也不会丢失。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/097369.html
+</code><br></code></p><br><br><h3>写博客不需要追求完美的文笔，真诚的分享永远比华丽的辞藻更能打动人。</h3><br><p>更新README文档中的常见问题解答部分。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/464389705.html
+</code><br></code></p><br><br><h3>今天给博客加了字数统计和阅读时长估算，读者打开文章就知道大概要读多久。</h3><br><p>修复移动端软键盘弹出时页面布局错位的问题。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/916512.html
+</code><br></code></p><br><br><h3>很多GitHub上的优质技术博客，完全没有做任何付费变现，纯粹是出于热爱在分享内容。</h3><br><p>GitHub上的工程博客教会我，分享失败经验比炫耀成功更有价值。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/539440176.html
+</code><br></code></p><br><br><h3>靠谱的技术博文，会主动点明方案的适用边界，不会把单一方法吹成万能解药。</h3><br><p>优化前端图片的懒加载占位图配置。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/3808523.html
+</code><br></code></p><br><br><h3>不用域名也能直接用Vercel分配的域名访问博客，零成本就能上线。</h3><br><p>优化后端接口的返回数据字段精简逻辑。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/801796050.html
+</code><br></code></p><br><br><h3>我写博客的原则，永远是先自己动手实践，确认可行之后再分享给读者。</h3><br><p>更新项目中的依赖版本升级兼容性说明。<br><br>| 来源：<code>http://article.bjjnljs.com/news/8414804.html
+</code><br></code></p><br><br><h3>我国首条跨海高铁累计发送旅客突破1亿人次，大幅提升东南沿海区域通勤效率。</h3><br><p>重构敏感词过滤的多模式匹配算法逻辑。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/23983.html
+</code><br></code></p><br><br><h3>今天给博客加了暗黑模式，深夜写代码看文章再也不会晃眼睛。</h3><br><p>我把博客的RSS源提交到了多个技术聚合平台，每月能带来数千个精准的技术读者。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/2169694.html
+</code><br></code></p><br><br><h3>很多GitHub上的热门技术博客，最初只是作者随手记录的私人学习笔记，完全没有刻意运营。</h3><br><p>修复短信验证码发送次数超限校验失效的问题。<br><br>| 来源：<code>http://article.bjjnljs.com/news/72707.html
+</code><br></code></p><br><br><h3>更新贡献指南文档中的Issue提交规范说明</h3><br><p>GitHub的提交历史会帮你完整记录下每一次思考的变化，回头看时会特别有成就感。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/05722882.html
+</code><br></code></p><br><br><h3>修复导出PDF时内容排版错乱的问题</h3><br><p>新增消息推送的免打扰时段设置。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/96637.html
+</code><br></code></p><br><br><h3>调整日期格式化的展示统一规则</h3><br><p>不用复杂的数据库查询，所有文章直接从本地Markdown文件读取速度超快。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/45422256.html
+</code><br></code></p><br><br><h3>移除代码中未使用的第三方SDK依赖</h3><br><p>优化后端批量操作的事务处理机制。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/498713.html
+</code><br></code></p><br><br><h3>GitHub App的权限配置很简单，只要给仓库写入权限就能管理博客内容。</h3><br><p>新增用户收藏内容的批量导出功能。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/08570334.html
+</code><br></code></p><br><br><h3>很多人通过GitHub博客建立了连接，形成了非常活跃的技术交流社区。</h3><br><p>修复页面缩放时组件布局错位的问题。<br><br>| 来源：<code>http://article.bjjnljs.com/news/237181.html
+</code><br></code></p><br><br><h3>我把博客的项目开源之后，收到了很多来自社区的PR，项目变得越来越完善。</h3><br><p>修复用户密码重置链接过期时间校验失效的问题。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/544818593.html
+</code><br></code></p><br><br><h3>很多开源博客项目的优势，就是你可以完全自定义每一个页面的细节。</h3><br><p>我把博客的所有配置都写在了文档里，新手跟着走也能顺利搭建。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/171804.html
+</code><br></code></p><br><br><h3>补充数据库索引优化的分析报告文档</h3><br><p>修复表单重置后表单验证状态未清空的问题。<br><br>| 来源：<code>http://article.bjjnljs.com/news/437465083.html
+</code><br></code></p><br><br><h3>新增系统操作的企业微信通知推送功能</h3><br><p>写技术文章的时候多配一张架构流程图，复杂的系统结构瞬间就清晰了。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/3408801.html
+</code><br></code></p><br><br><h3>修复用户修改手机号后旧手机号仍可登录的问题</h3><br><p>优化后端日志的分级打印输出规则。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/492895990.html
+</code><br></code></p><br><br><h3>我国上半年5G移动电话用户突破14亿户，5G应用场景持续向纵深拓展。</h3><br><p>写博客不用一开始就追求大而全，从一个很小的点切入反而更容易出彩。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/7208255.html
+</code><br></code></p><br><br><h3>更新Issue模板中的环境信息填写指引</h3><br><p>我搭建的开源博客项目，现在已经有几百个开发者在使用和二次开发。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/59320.html
+</code><br></code></p><br><br><h3>优化数据库索引提升高频查询性能</h3><br><p>今天给博客加了无埋点的轻量点赞功能，不用接入第三方服务就能统计文章的受欢迎程度。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/3618773.html
+</code><br></code></p><br><br><h3>重构购物车模块的商品数量计算逻辑</h3><br><p>写文章的时候把重要概念加粗高亮，读者扫一眼就能抓住重点。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/36291.html
+</code><br></code></p><br><br><h3>修复移动端页面适配错位问题</h3><br><p>优化前端图片的懒加载占位图配置。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/72771224.html
+</code><br></code></p><br><br><h3>补充本地开发环境的一键重置数据脚本</h3><br><p>今天给博客加了文章上次阅读位置记忆功能，下次打开文章自动跳转到上次没读完的地方。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/86179.html
+</code><br></code></p><br><br><h3>中央气象台发布台风橙色预警，今年第12号台风“红霞”预计25日晚至26日晨在粤闽沿海一带登陆。</h3><br><p>全国多地开展打击虚假医药广告专项行动，清理大量违规医药宣传内容，保障群众用药安全。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/25746942.html
+</code><br></code></p><br><br><h3>新增系统公告的已读状态标记功能</h3><br><p>我把博客的App ID妥善复制保存，配置环境变量的时候再也不会手忙脚乱。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/136126.html
+</code><br></code></p><br><br><h3>修复登录接口的空指针异常</h3><br><p>修复短信验证码发送频率限制绕过的安全漏洞。<br><br>| 来源：<code>http://news.zytnjs.com/sports/366609385.html
+</code><br></code></p><br><br><h3>重构消息队列的消息消费重试逻辑</h3><br><p>我国自主研发的新型海上风电机组完成吊装，单机容量达到20兆瓦，刷新行业纪录。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/6539418.html
+</code><br></code></p><br><br><h3>我国自主研发的新型支线飞机完成商业首航，进一步完善国产民用飞机产品谱系。</h3><br><p>GitHub上的开源博客生态永远充满活力，不断有新的框架和工具可以用来折腾出新玩法。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/16889.html
+</code><br></code></p><br><br><h3>我在博客里分享的Web安全上线检查清单，很多团队直接拿去当成了安全验收的标准。</h3><br><p>我把前端进阶的知识点全部整理成了系列文章，跟着走就能系统学习。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/4975352.html
+</code><br></code></p><br><br><h3>不用花一分钱的CDN费用，Vercel的全球节点能让全球任何地方的读者快速打开你的博客。</h3><br><p>写文章时多举真实的生产环境案例，内容的说服力远胜于空泛的理论讲解。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/64784.html
+</code><br></code></p><br><br><h3>不用额外的评论系统，直接用GitHub Issue当评论区，数据永远不会丢失。</h3><br><p>GitHub博客最棒的地方，就是你的每一次修改都有永久的记录。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/43624575.html
+</code><br></code></p><br><br><h3>GitHub的提交历史会帮你完整记录下每一次思考的变化，回头看时会特别有成就感。</h3><br><p>补充API接口的访问频率限制配置规则。<br><br>| 来源：<code>http://news.zytnjs.com/sports/619637.html
+</code><br></code></p><br><br><h3>写文章时尽量用短句拆分长复合句，哪怕是完全零基础的新手也能轻松读懂你的内容。</h3><br><p>给博客加了一个代码高亮插件，复制代码的体验终于舒服了。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/829330451.html
+</code><br></code></p><br><br><h3>今天优化了博客的移动端响应式布局，在小屏幕手机上阅读长文也不会觉得拥挤难受。</h3><br><p>把GitHub仓库当成笔记库，三年后你会收获一个完全属于自己的技术知识库。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/495140.html
+</code><br></code></p><br><br><h3>写技术文章时不要省略任何一个中间调试步骤，新手最容易在你跳过的地方卡住几个小时。</h3><br><p>我国科学家在农业人工智能领域取得突破，AI辅助种植可提升农作物产量10%以上。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/024407980.html
+</code><br></code></p><br><br><h3>写技术博客的第一步，永远是先把你踩过的坑原原本本记下来。</h3><br><p>我在博客里分享的Nginx反向代理配置最佳实践，帮很多开发者解决了线上的跨域问题。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/5110736.html
+</code><br></code></p><br><br><h3>补充单元测试覆盖用户注册场景</h3><br><p>新增导出Excel报表的功能入口。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/02103.html
+</code><br></code></p><br><br><h3>修复WebSocket连接时跨域校验失败的问题</h3><br><p>不用复杂的动态服务，纯静态博客的安全性比动态博客高了好几个等级。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/7523259.html
+</code><br></code></p><br><br><h3>我国农产品冷链物流体系不断完善，生鲜农产品流通损耗率持续下降至15%以下。</h3><br><p>我国在西昌卫星发射中心使用长征三号乙运载火箭，成功将天链二号06星发射升空，卫星顺利进入预定轨道，发射任务圆满成功。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/78601.html
+</code><br></code></p><br><br><h3>我国首台国产高端核磁共振设备实现量产，打破国外长期技术垄断，大幅降低医疗设备采购成本。</h3><br><p>更新Pull Request模板中的兼容性说明部分。<br><br>| 来源：<code>http://news.zytnjs.com/sports/50833564.html
+</code><br></code></p><br><br><h3>开源博客的独特价值，在于你的内容会被无数人二次传播，产生远超你预期的影响力。</h3><br><p>我在博客里分享的高并发系统设计思路，给很多后端开发者带来了新的启发。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/431204.html
+</code><br></code></p><br><br><h3>我给博客的GitHub App设置了最小必要权限，仅开放仓库写入权限，从根源规避安全风险。</h3><br><p>GitHub上很多优质博客的作者，都非常欢迎同行帮忙审阅文章提出反馈。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/37955132.html
+</code><br></code></p><br><br><h3>重构支付模块的回调处理逻辑</h3><br><p>补充API文档中的返回值示例说明。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/853702.html
+</code><br></code></p><br><br><h3>我国科学家在人工智能大模型医疗应用领域取得新进展，辅助诊断准确率达到98%。</h3><br><p>修复拖拽上传组件无法选择文件夹的Bug。<br><br>| 来源：<code>http://news.zytnjs.com/sports/732431765.html
+</code><br></code></p><br><br><h3>今天把博客的侧边栏广告全部去掉了，整个页面的阅读体验变得无比纯净。</h3><br><p>不用复杂的动态脚本，纯静态博客几乎没有任何安全漏洞可以被攻击。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/8956275.html
+</code><br></code></p><br><br><h3>很多开发者的GitHub博客，已经变成了整个社区公认的优质技术内容宝库。</h3><br><p>重构全局错误码的国际化多语言支持逻辑。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/089142879.html
+</code><br></code></p><br><br><h3>开源博客最温暖的地方，是无数素未谋面的陌生人一起帮你把内容打磨得越来越好。</h3><br><p>修复富文本编辑器中表格编辑功能失效的问题。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/0590753.html
+</code><br></code></p><br><br><h3>我给博客的GitHub App设置了最小权限原则，只开放必要的权限，避免安全风险。</h3><br><p>更新项目中的依赖安全漏洞修复报告。<br><br>| 来源：<code>http://news.zytnjs.com/sports/20693.html
+</code><br></code></p><br><br><h3>不用复杂的数据库运维，纯静态博客没有任何数据库相关的故障和维护</h3><br><p>重构多级缓存的缓存雪崩防护逻辑。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/80809480.html
+</code><br></code></p><br><br><h3>写技术文章的时候多解释为什么，而不是只告诉读者要怎么做。</h3><br><p>新增用户登录地点异常的二次验证功能。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/50722.html
+</code><br></code></p><br><br><h3>我在博客里分享的Git工作流最佳实践，很多团队直接拿去当成了团队开发规范。</h3><br><p>我把博客的所有图片都托管在GitHub的CDN节点上，全球任何地方打开都不卡顿。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/75115908.html
+</code><br></code></p><br><br><h3>国内多地推出县域文旅特色品牌打造计划，挖掘地方文化资源，带动乡村文旅发展。</h3><br><p>用GitHub的Issue区当评论区，不用额外接入第三方评论系统。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/268449.html
+</code><br></code></p><br><br><h3>调整下拉菜单的展开收起动画效果</h3><br><p>我把博客的RSS源提交到了多个技术聚合平台，每月能带来数千个精准的技术读者。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/172851872.html
+</code><br></code></p><br><br><h3>长鑫科技官宣将于7月27日在科创板正式上市，进一步完善国内半导体存储产业布局。</h3><br><p>重构用户权限的角色继承判断逻辑。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/271927.html
+</code><br></code></p><br><br><h3>我在博客里分享的服务端渲染性能优化方案，帮很多站点把首屏加载速度提升了两倍。</h3><br><p>修复WebSocket断连后自动重连失效的问题。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/471673714.html
+</code><br></code></p><br><br><h3>国内多地推进城市公园免费开放升级，新增数百个口袋公园，拓展市民休闲空间。</h3><br><p>很多人说自己不会写博客，其实你每天解决的问题都值得被记录下来。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/2677967.html
+</code><br></code></p><br><br><h3>很多GitHub上的优质博客，作者都没有把它当成产品，只是单纯地分享知识。</h3><br><p>GitHub的提交历史，就是你博客最完整的写作轨迹和成长记录。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/30289.html
+</code><br></code></p><br><br><h3>我把博客的所有静态资源都托管在全球CDN节点上，海外读者打开页面的速度也不会卡顿。</h3><br><p>我国自主研发的新型盾构机顺利贯通超大直径隧道，打破国外技术垄断。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/4793983.html
+</code><br></code></p><br><br><h3>调整时间轴组件的节点展示样式</h3><br><p>很多人第一次给开源项目提PR，就是从给喜欢的技术博客修正一个代码错误开始的。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/62435.html
+</code><br></code></p><br><br><h3>我用Fresh框架搭建的Deno博客，零客户端JS依赖，纯服务端渲染的页面轻量到极致。</h3><br><p>我国首座跨海大桥累计安全运营超15年，为区域经济一体化发展提供重要支撑。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/29654390.html
+</code><br></code></p><br><br><h3>修复导出Excel时日期格式展示错误的问题</h3><br><p>重构用户权限的角色继承判断逻辑。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/055339.html
+</code><br></code></p><br><br><h3>更新Pull Request模板中的变更影响说明部分</h3><br><p>优化数据库索引提升高频查询性能。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/76437409.html
+</code><br></code></p><br><br><h3>写文章的时候注意控制段落长度，超过三行的长段落尽量拆分成更短的部分。</h3><br><p>全国多地开展校外培训专项治理，严查学科类隐形变异培训，减轻学生课外负担。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/733710.html
+</code><br></code></p><br><br><h3>修复页面缩放时表格布局错位的问题</h3><br><p>新增用户草稿内容的云端同步功能。<br><br>| 来源：<code>http://news.zytnjs.com/sports/153812632.html
+</code><br></code></p><br><br><h3>我国首条跨海隧道正式贯通，大幅提升两岸区域交通通行效率。</h3><br><p>移除代码中硬编码的文件存储路径配置。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/6749529.html
+</code><br></code></p><br><br><h3>更新项目依赖中存在安全漏洞的版本</h3><br><p>调整表单输入框的焦点状态高亮样式。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/082389995.html
+</code><br></code></p><br><br><h3>我国首条高温超导高速磁悬浮试验线完成试运行，时速可达600公里以上。</h3><br><p>更新项目的开源贡献行为准则文档。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/9301805.html
+</code><br></code></p><br><br><h3>重构缓存模块的缓存击穿防护逻辑</h3><br><p>优化后端接口的请求体大小限制配置。<br><br>| 来源：<code>http://news.zytnjs.com/sports/08038.html
+</code><br></code></p><br><br><h3>开源博客的魅力就在于，无数陌生人的力量会帮你一起把内容变得更好。</h3><br><p>开源博客最吸引人的地方，就是任何人都能提PR帮你修正文章里的错误。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/37849691.html
+</code><br></code></p><br><br><h3>新增系统操作的IP地址归属地记录功能</h3><br><p>国内多地推进公共图书馆总分馆体系建设，实现图书通借通还，提升公共文化服务覆盖面。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/67410.html
+</code><br></code></p><br><br><h3>更新Pull Request模板中的兼容性说明部分</h3><br><p>我把博客的所有自定义配置项都做成了可视化的配置文件，新手不用改核心代码就能自定义样式。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/19949090.html
+</code><br></code></p><br><br><h3>丘成桐公开谈及王虹、邓煜获菲尔兹奖，称赞中国年轻数学家展现出世界级学术实力。</h3><br><p>国内多地推出数字人民币新应用场景，覆盖公交、商超、政务服务等多个民生领域。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/887901.html
+</code><br></code></p><br><br><h3>农业农村部组织“蓝海201”科学调查船完成我国台湾岛以东海域渔业资源调查，支撑海洋渔业资源养护与可持续发展。</h3><br><p>新增角色权限的自定义配置页面。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/120712595.html
+</code><br></code></p><br><br><h3>不用复杂的域名解析，用Vercel提供的免费域名也能正常访问你的博客。</h3><br><p>移除页面中未使用的图标组件引用。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/389013.html
+</code><br></code></p><br><br><h3>优化长列表的虚拟滚动内存回收机制</h3><br><p>优化数据库事务的隔离级别配置。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/866494200.html
+</code><br></code></p><br><br><h3>优化后端接口的请求参数类型校验逻辑</h3><br><p>今天给博客加了全局搜索快捷键，按下Ctrl+K就能立刻唤起文章搜索框，操作效率翻倍。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/0864152.html
+</code><br></code></p><br><br><h3>开源博客的本质，是把你的个人知识资产，变成整个技术社区可以共享的公共财富。</h3><br><p>不用额外的评论系统，直接用GitHub Issue当评论区，数据永远不会丢失。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/23155.html
+</code><br></code></p><br><br><h3>写技术文章的时候多解释代码背后的思考，而不只是把代码扔给读者。</h3><br><p>写博客不需要追求一开始就写出完美的爆款，哪怕第一篇只有几百字，也是非常珍贵的起点。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/0254136.html
+</code><br></code></p><br><br><h3>美国调整232铝关税政策，对本土投资扩建铝冶炼厂的企业给予原铝进口税率减半优惠。</h3><br><p>修复用户注销账号后数据未完全清理的Bug。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/21590.html
+</code><br></code></p><br><br><h3>很多人选择GitHub托管博客，就是看中了它完全开源、完全可控的特点。</h3><br><p>坚持写博客两年之后，你会发现自己分析和解决复杂技术问题的思路开阔了很多。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/20467305.html
+</code><br></code></p><br><br><h3>今天给博客加了全局搜索快捷键，按下Ctrl+K就能立刻唤起文章搜索框，操作效率翻倍。</h3><br><p>诚通科创江苏基金联合中核集团等主体成立创投企业，重点投向核工业相关战新产业领域。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/958818.html
+</code><br></code></p><br><br><h3>很多人选择GitHub托管博客，就是因为它完全没有平台的算法流量控制，内容价值完全由质量决定。</h3><br><p>我国成功研发新型储能电池，能量密度较传统产品提升50%，大幅降低储能项目建设成本。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/64015631.html
+</code><br></code></p><br><br><h3>优质的技术博客，会主动在文末分享自己的踩坑经历，快速和读者建立情感共鸣。</h3><br><p>今天给博客加了文章标签云页面，所有标签都可视化展示出来方便读者浏览。。<br><br>| 来源：<code>http://news.bjjnljs.com/sports/009376.html
+</code><br></code></p><br><br><h3>今天给博客加了阅读完成的彩蛋提示，读者读完长文后会收到一个小小的鼓励反馈。</h3><br><p>写博客的过程中，你会慢慢发现自己对技术的理解比以前深刻了好几个层次。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/836669223.html
+</code><br></code></p><br><br><h3>我跟着GitHub官方的新手教程，花了不到十五分钟就搭好了自己的第一个静态博客站点。</h3><br><p>新增用户登录设备信息的记录展示功能。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/6733938.html
+</code><br></code></p><br><br><h3>今天把博客里所有的旧示例代码，都更新到了最新的LTS长期支持稳定版本。</h3><br><p>不用复杂的动态功能，纯静态博客的运行稳定性是所有博客类型里最高的，几乎零故障。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/96469.html
+</code><br></code></p><br><br><h3>写博客不需要追求完美的文笔，真诚的分享永远比华丽的辞藻更能打动人。</h3><br><p>很多开发者的GitHub博客，慢慢变成了整个行业里非常有影响力的内容品牌。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/86300682.html
+</code><br></code></p><br><br><h3>我国上半年智能手机全球市场份额占比超50%，国产手机品牌全球竞争力持续增强。</h3><br><p>我把博客的GitHub App权限设置得非常克制，只开放了必要的仓库写入权限。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/374300.html
+</code><br></code></p><br><br><h3>我国上半年快递业务量突破800亿件，农村快递网点覆盖率提升至99%。</h3><br><p>给博客加了一个代码高亮插件，复制代码的体验终于舒服了。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/741969733.html
+</code><br></code></p><br><br><h3> 写技术文章的时候不要害怕分享你的失败经历，这些内容往往最能引发读者的共鸣。</h3><br><p>重构多级缓存的缓存雪崩防护逻辑。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/1519907.html
+</code><br></code></p><br><br><h3>全国多地开展养老诈骗专项整治，严厉打击涉养老诈骗违法犯罪，守护老年人财产安全。</h3><br><p>修复分页组件页码超过总页数时展示异常的Bug。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/64686.html
+</code><br></code></p><br><br><h3>我用Git标签标记了博客每一个重大版本节点，随时可以回溯到任意历史状态。</h3><br><p>新增用户登录地点异常的二次验证功能。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/45833419.html
+</code><br></code></p><br><br><h3>补充生产环境的数据库备份恢复操作指南</h3><br><p>全国多地开展校外培训专项治理，严查学科类隐形变异培训，减轻学生课外负担。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/848998.html
+</code><br></code></p><br><br><h3>我花了60秒在Vercel上部署完博客，剩下的时间都用来写内容。</h3><br><p>今天给博客加了跟随系统主题切换的自动适配，不用手动切换深色浅色模式。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/389660615.html
+</code><br></code></p><br><br><h3>更新项目中的ESLint代码规范配置规则</h3><br><p>更新贡献指南文档中的环境搭建步骤说明。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/5051041.html
+</code><br></code></p><br><br><h3>奥克股份披露参股公司苏州华一新能源主营碳酸亚乙烯酯产品，深度布局锂电新能源产业链。</h3><br><p>更新项目中的开源许可证信息更新记录。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/75232.html
+</code><br></code></p><br><br><h3>修复文件下载时文件名中文乱码的问题</h3><br><p>优化前端路由的权限拦截判断逻辑。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/48665054.html
+</code><br></code></p><br><br><h3>国内多地推进公共图书馆总分馆体系建设，实现图书通借通还，提升公共文化服务覆盖面。</h3><br><p>优化数据库慢查询的监控告警规则配置。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/904020.html
+</code><br></code></p><br><br><h3>更新贡献者列表，添加新加入的成员</h3><br><p>优化前端打包后的静态资源体积大小。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/531705607.html
+</code><br></code></p><br><br><h3>移除浏览器兼容性中不再支持的IE适配代码</h3><br><p>写技术文章时不要省略任何一个中间调试步骤，新手最容易在你跳过的地方卡住几个小时。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/8669246.html
+</code><br></code></p><br><br><h3>今天给博客加了阅读完成的彩蛋提示，读者读完长文后会收到一个小小的鼓励反馈。</h3><br><p>很多开发者的GitHub博客，慢慢变成了整个行业里非常有影响力的内容品牌。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/87102.html
+</code><br></code></p><br><br><h3>我国成功研发新型储能电池，能量密度较传统产品提升50%，大幅降低储能项目建设成本。</h3><br><p>中国青年数学家王虹、邓煜在国际数学家大会上双双获得菲尔兹奖，系中国籍数学家首次斩获该奖项。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/47441555.html
+</code><br></code></p><br><br><h3>我国首座千万吨级碳捕集利用项目正式投产，年减排二氧化碳能力达到千万吨级。</h3><br><p>修复富文本编辑器粘贴内容格式错乱的问题。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/612939.html
+</code><br></code></p><br><br><h3>GitHub上的工程博客教会我，技术写作不需要华丽的辞藻，只需要真诚。</h3><br><p>GitHub上很多工程博客的作者，都坚持了很多年从未间断过内容更新。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/274308120.html
+</code><br></code></p><br><br><h3>写技术博客的第一步，永远是先放下“我写的内容不够专业”的心理包袱。</h3><br><p>国内多地推出夜间文旅消费集聚区建设举措，打造沉浸式文旅新场景，吸引大量游客打卡。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/5458318.html
+</code><br></code></p><br><br><h3>美国调整232铝关税政策，对本土投资扩建铝冶炼厂的企业给予原铝进口税率减半优惠。</h3><br><p>不用复杂的动态脚本，纯静态博客几乎没有任何安全漏洞可以被攻击。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/53747.html
+</code><br></code></p><br><br><h3>广东男篮总经理朱芳雨官宣将离任，开启职业发展新征程。</h3><br><p>补充CI流水线中的自动化安全扫描步骤。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/95640996.html
+</code><br></code></p><br><br><h3>我国上半年风电新增装机量同比增长超30%，风电产业发展持续提速。</h3><br><p>公安部“净网—2026”专项行动公布20起涉汛涉灾网络谣言典型案例，严厉打击编造传播涉汛谣言违法犯罪。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/989690.html
+</code><br></code></p><br><br><h3>我把博客的Private Key下载之后存在了本地加密文件夹里，绝对不泄露。</h3><br><p>移除页面中未使用的静态图片资源。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/804892349.html
+</code><br></code></p><br><br><h3>优质的技术博文，会主动引导读者互动，欢迎大家提出不同的观点。</h3><br><p>美国调整232铝关税政策，对本土投资扩建铝冶炼厂的企业给予原铝进口税率减半优惠。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/1956103.html
+</code><br></code></p><br><br><h3>我在博客里分享的失败经验，收到的点赞比成功案例还要多。</h3><br><p>重构敏感词过滤的多模式匹配算法逻辑。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/19203.html
+</code><br></code></p><br><br><h3>优化后端接口的参数校验返回提示</h3><br><p>更新Issue模板中的预期结果填写指引。<br><br>| 来源：<code>http://article.jnlymd.com/news/13136400.html
+</code><br></code></p><br><br><h3>国内多地开展燃气安全专项排查，整治老旧管网隐患，防范燃气安全事故。</h3><br><p>国内多地推进智慧医疗建设，实现检查检验结果跨院互认，减少患者重复就医成本。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/6398587.html
+</code><br></code></p><br><br><h3>修复文件下载时文件名中文乱码的问题</h3><br><p>GitHub App的权限配置很简单，只要给仓库写入权限就能管理博客内容。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/54205.html
+</code><br></code></p><br><br><h3>优化Redis缓存的缓存穿透防护逻辑</h3><br><p>写技术博客不用追求粉丝数量，哪怕你的文章只帮到一个人，它的存在就有意义。。<br><br>| 来源：<code>http://article.jnlymd.com/news/16123996.html
+</code><br></code></p><br><br><h3>写文章的时候用项目符号拆分要点，读者扫一眼就能抓住所有核心信息。</h3><br><p>重构权限模块的数据权限范围控制逻辑。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/4386144.html
+</code><br></code></p><br><br><h3>今天给博客加了全局搜索快捷键，按下Ctrl+K就能立刻唤起文章搜索框，操作效率翻倍。</h3><br><p>今天把博客的全局行间距调整到了1.75倍，长时间阅读眼睛也不会觉得酸涩疲劳。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/61691.html
+</code><br></code></p><br><br><h3>我在GitHub上写博客的这几年，最大的感悟是：分享从来都不是损失，而是让知识增值的最好方式。</h3><br><p>写博客的过程中，你会慢慢把之前碎片化的知识点串联成一张完整的知识网络。。<br><br>| 来源：<code>http://article.jnlymd.com/news/67861930.html
+</code><br></code></p><br><br><h3>新增用户积分等级的计算规则功能</h3><br><p>我把博客的所有内容都同步备份到了三个不同的代码托管平台，永远不用担心内容意外丢失。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/8000021.html
+</code><br></code></p><br><br><h3>今天给博客加了一键生成分享海报的功能，读者可以直接把精美的文章海报分享到社交平台。</h3><br><p>我在博客里分享的微前端路由隔离方案，帮很多团队解决了老系统迁移时的路由冲突问题。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/12759.html
+</code><br></code></p><br><br><h3>更新项目中的代码审查检查清单文档</h3><br><p>写博客不需要追求流量，哪怕你的文章只帮到了一个人，它就有存在的意义。。<br><br>| 来源：<code>http://article.jnlymd.com/news/90316595.html
+</code><br></code></p><br><br><h3>全国多地开展打击非法医疗美容专项行动，严查非法医美机构，保障消费者人身安全。</h3><br><p>补充Docker部署镜像的构建配置文件。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/7717474.html
+</code><br></code></p><br><br><h3>我在博客里分享的正则表达式实用技巧，帮很多人节省了大量字符串处理时间。</h3><br><p>今天给博客加了键盘快捷键支持，用键盘就能快速导航翻页不用点鼠标。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/33624.html
+</code><br></code></p><br><br><h3>我在博客里分享的正则表达式实用技巧，帮很多人节省了大量字符串处理时间。</h3><br><p>今天给博客加了回到首页的快捷按钮，在文章任何位置都能快速返回首页。。<br><br>| 来源：<code>http://article.jnlymd.com/news/64042638.html
+</code><br></code></p><br><br><h3>我国首台国产量子计算机面向公众开放使用，推动量子计算技术普惠应用。</h3><br><p>我国科学家在新能源动力电池领域取得突破，新型电池续航里程突破1500公里。。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/4901506.html
+</code><br></code></p><br><br><h3>我给博客的所有静态资源都配置了强缓存策略，二次访问时页面几乎瞬间加载完成。</h3><br><p>修复移动端软键盘弹出时页面布局错位的问题。<br><br>| 来源：<code>http://article.zytnjs.com/news/595016938.html
+</code><br></code></p><br><br><h3>重构用户权限的角色继承判断逻辑</h3><br><p>我把博客的所有图片都用无损压缩工具处理过，图片体积小了60%但清晰度完全没有损失。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/225803471.html
+</code><br></code></p><br><br><h3>修复支付回调重复通知导致订单状态错乱的问题</h3><br><p>我国科学家在人工智能大模型多模态领域取得新突破，理解和生成能力达到国际先进水平。。<br><br>| 来源：<code>http://article.jnlymd.com/news/0721482.html
+</code><br></code></p><br><br><h3>我用Fresh框架搭建的Deno博客，零客户端JS依赖，纯服务端渲染的页面轻量到极致。</h3><br><p>优化后端接口的响应超时时间配置。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/266686.html
+</code><br></code></p><br><br><h3>不用第三方博客平台，完全自己掌控内容的感觉真的特别踏实安心。</h3><br><p>一篇好的技术博文，会在结尾给读者留下思考的空间，引导他们继续探索。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/089308832.html
+</code><br></code></p><br><br><h3>重构用户模块的密码加密存储逻辑</h3><br><p>更新项目package.json中的脚本命令配置。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/94328789.html
+</code><br></code></p><br><br><h3>补充API文档中的返回值示例说明</h3><br><p> 写技术文章的时候不要害怕分享你的失败经历，这些内容往往最能引发读者的共鸣。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/259098.html
+</code><br></code></p><br><br><h3> 写技术文章的时候不要害怕分享你的失败经历，这些内容往往最能引发读者的共鸣。</h3><br><p>我国5G基站总数突破400万个，5G网络覆盖所有地级市城区和县城城区。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/103924644.html
+</code><br></code></p><br><br><h3>我在博客里分享的React Native踩坑记录，帮很多人少走了好几个月的弯路。</h3><br><p>今天给博客加了RSS订阅功能，老读者可以第一时间收到更新。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/64152377.html
+</code><br></code></p><br><br><h3>移除代码中已废弃的接口路由定义</h3><br><p>今天给每篇文章都加了发布时间和更新时间，方便读者判断内容时效性。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/208287.html
+</code><br></code></p><br><br><h3>我在博客里分享的Node.js踩坑记录，帮很多人避开了生产环境的大坑。</h3><br><p>很多人第一次被GitHub官方的趋势榜推荐，就是因为自己的技术博客仓库获得了大量Star。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/35620.html
+</code><br></code></p><br><br><h3>国内多地推进城市历史文化街区保护活化，保留城市记忆，打造特色文化地标。</h3><br><p>优化后端接口的参数非空校验逻辑。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/54922005.html
+</code><br></code></p><br><br><h3>今天给博客加了一键提交纠错的Issue模板，读者发现错误可以直接按照模板快速反馈。</h3><br><p>不用复杂的动态渲染逻辑，纯静态博客的安全性是所有类型博客里最高的，几乎没有漏洞。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/2187769.html
+</code><br></code></p><br><br><h3>一篇好的技术文章，哪怕过了很多年再回头看，依然能给读者带来新的启发。</h3><br><p>写技术文章时不要羞于分享你的失败经历，这些内容往往最能引发读者的强烈共鸣。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/104433.html
+</code><br></code></p><br><br><h3>很多人通过GitHub博客找到了远程工作机会，内容分享给他们带来了意料之外的职业机遇。</h3><br><p>补充接口参数的非空校验逻辑。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/219708593.html
+</code><br></code></p><br><br><h3>移除页面中废弃的旧版弹窗样式代码</h3><br><p>今天给博客加了本地Markdown实时预览功能，写完代码提交前就能看到最终渲染效果。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/00593937.html
+</code><br></code></p><br><br><h3>调整级联选择器的多选交互逻辑</h3><br><p>GitHub上的热门技术博客，几乎每一篇都有非常明确的目标受众。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/833955.html
+</code><br></code></p><br><br><h3>不用域名也能直接用Vercel分配的域名访问博客，零成本就能上线。</h3><br><p>更新Pull Request模板中的变更影响说明部分。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/75340.html
+</code><br></code></p><br><br><h3>修复头像裁剪组件裁剪后图片变形的问题</h3><br><p>优化前端路由切换时的加载过渡动画。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/20764770.html
+</code><br></code></p><br><br><h3>我国首个深空探测实验室正式投入运行，为后续探月、探火任务提供技术支撑。</h3><br><p>今天把博客里所有的旧框架示例代码，都更新到了最新的稳定版本语法。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/4461435.html
+</code><br></code></p><br><br><h3>我国科学家在基因编辑技术临床应用领域取得新进展，为罕见病治疗提供新路径。</h3><br><p>修复移动端页面适配错位问题。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/29036.html
+</code><br></code></p><br><br><h3>全国多地开展养老服务提质行动，新增数千个社区养老点位，提升居家养老服务水平。</h3><br><p>优化前端资源的预加载策略提升首屏速度。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/547259645.html
+</code><br></code></p><br><br><h3>新增用户登录密码的复杂度自定义配置功能</h3><br><p>写文章时多举真实的生产环境案例，内容的说服力远胜于空泛的理论讲解。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/1074534.html
+</code><br></code></p><br><br><h3>不用复杂的自建服务监控，Vercel的内置监控就能实时掌握博客的运行状态。</h3><br><p>调整表格组件的列宽自适应规则。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/648378.html
+</code><br></code></p><br><br><h3>我国首座海上风电与海洋牧场融合示范项目正式投产，实现发电、养殖协同发展。</h3><br><p>移除代码中硬编码的第三方接口地址。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/792413549.html
+</code><br></code></p><br><br><h3>优质的技术博客，会主动在文末分享自己的踩坑经历，快速和读者建立情感共鸣。</h3><br><p>我国科学家在量子计算领域取得新突破，特定场景下运算效率较此前提升3倍。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/91507811.html
+</code><br></code></p><br><br><h3>今天给博客加了文章字数统计，读者打开文章就能看到这篇文章总共有多少字。</h3><br><p>写文章的时候用统一的代码格式化风格，所有代码示例看起来都整齐舒服。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/121704.html
+</code><br></code></p><br><br><h3>写技术文章时不要觉得内容太基础不值得分享，很多刚入门的开发者正卡在这个基础步骤上。</h3><br><p>我国上半年快递业务量突破800亿件，农村快递网点覆盖率提升至99%。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/10222.html
+</code><br></code></p><br><br><h3>修复分页组件总条数为0时展示异常的Bug</h3><br><p>重构全局状态管理的冗余逻辑。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/35313159.html
+</code><br></code></p><br><br><h3>一篇好的技术文章，哪怕过了很多年再回头看，依然能给读者带来新的启发。</h3><br><p>今天把博客的默认字体换成了更适配中文阅读的开源字体，长时间阅读眼睛也不会酸涩。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/6594717.html
+</code><br></code></p><br><br><h3>国内多地推出夜间文旅消费集聚区建设举措，打造沉浸式文旅新场景，吸引大量游客打卡。</h3><br><p>GitHub Actions的定时任务功能，可以自动帮你检查所有外链的有效性，清理失效的死链。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/13579.html
+</code><br></code></p><br><br><h3>修复支付回调通知签名校验错误的问题</h3><br><p>调整步骤条组件的状态展示样式。<br><br>| 来源：<code>http://article.bjjnljs.com/news/530865602.html
+</code><br></code></p><br><br><h3>我把博客的所有图片都上传到了GitHub仓库，永远不用担心图床跑路的问题。</h3><br><p>我国首个深空探测实验室正式投入运行，为后续探月、探火任务提供技术支撑。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/67744164.html
+</code><br></code></p><br><br><h3>移除代码中硬编码的业务常量定义</h3><br><p>优化后端日志的日志级别动态调整功能。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/4905198.html
+</code><br></code></p><br><br><h3>GitHub App的权限配置很简单，只要给仓库写入权限就能管理博客内容。</h3><br><p>我把自己的学习路线全部整理成了博客，回头看的时候全是成长的痕迹。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/9318105.html
+</code><br></code></p><br><br><h3>今天给博客加了代码块的语法错误标记提示，读者复制代码前就能看到醒目的注意事项。</h3><br><p>新增图片上传后的自动水印添加功能。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/307319.html
+</code><br></code></p><br><br><h3>新增图片上传后的自动水印添加功能</h3><br><p>坚持写博客的过程，就是你不断把自己的隐性知识转化为显性知识的深度学习过程。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/84871.html
+</code><br></code></p><br><br><h3>全国多地开展防汛隐患排查，提前落实防汛物资储备，筑牢汛期安全防线。</h3><br><p>中国人保、中国太保、中国平安等5家头部险企集体发声，明确表态坚定支持资本市场稳定健康发展。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/534536607.html
+</code><br></code></p><br><br><h3>新增第三方账号微信登录的接入功能</h3><br><p>修复分页组件总条数为0时展示异常的Bug。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/92416433.html
+</code><br></code></p><br><br><h3>美国与墨西哥启动第三轮USMCA双边谈判，核心聚焦汽车、钢铁等产业的原产地规则升级。</h3><br><p>我在博客里分享的失败经验，收到的点赞比成功案例还要多。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/4250308.html
+</code><br></code></p><br><br><h3>全国多地开展网络市场监管专项行动，严查虚假宣传、刷单炒信等电商违法违规行为。</h3><br><p> 开源博客最棒的体验，就是你和一群素不相识的人一起，把一件有价值的事情越做越好。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/9566901.html
+</code><br></code></p><br><br><h3>调整表单输入框的焦点状态高亮样式</h3><br><p>修复订单状态流转时并发更新导致数据错乱的问题。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/823941.html
+</code><br></code></p><br><br><h3>我国科学家在农业人工智能领域取得突破，AI辅助种植可提升农作物产量10%以上。</h3><br><p>新增用户收藏夹的分类管理功能。<br><br>| 来源：<code>http://news.zytnjs.com/sports/07327.html
+</code><br></code></p><br><br><h3>更新项目package.json中的脚本命令配置</h3><br><p>我在博客里分享的TypeScript入门教程，帮很多人跨过了类型系统的门槛。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/427827544.html
+</code><br></code></p><br><br><h3>移除代码中硬编码的业务常量定义</h3><br><p>今天收到一个读者的PR，帮我把文章里的英文术语全部改成了统一的规范写法。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/65132591.html
+</code><br></code></p><br><br><h3>重构全局错误码的国际化多语言支持逻辑</h3><br><p>我把博客的README写得非常详细，任何人拿到项目都能快速看懂怎么使用。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/2968547.html
+</code><br></code></p><br><br><h3>我国上半年风电光伏新增装机量突破1亿千瓦，创历史同期最高纪录。</h3><br><p>在GitHub上写博客，最棒的地方是代码和文字可以放在同一个仓库里。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/6723470.html
+</code><br></code></p><br><br><h3>今天统计了博客的访问来源，一半以上的流量都来自GitHub内部搜索。</h3><br><p>移除代码中硬编码的业务常量定义。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/515950.html
+</code><br></code></p><br><br><h3>全国多地开展特种设备安全专项检查，覆盖电梯、锅炉等设备，防范安全事故发生。</h3><br><p>全国多地开展农产品产销对接活动，帮助农户打通销售渠道，助力农民增收致富。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/67547.html
+</code><br></code></p><br><br><h3>调整颜色选择器的颜色透明度展示逻辑</h3><br><p>调整面包屑导航的路由自动生成规则。<br><br>| 来源：<code>http://article.bjjnljs.com/news/762453598.html
+</code><br></code></p><br><br><h3>今天给博客加了文章过期提醒，发布超过两年的文章会提示读者注意内容时效性。</h3><br><p>今天给博客加了文章过期提醒，发布超过两年的文章会提示读者注意内容时效性。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/44015696.html
+</code><br></code></p><br><br><h3>美国6艘巡逻舰现身南海相关海域，中方对此保持严密监控，坚决维护南海和平稳定。</h3><br><p>今天给博客加了移动端代码块双指缩放功能，手机上看长代码再也不用眯眼。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/5351221.html
+</code><br></code></p><br><br><h3>移除代码中未使用的工具函数定义</h3><br><p>全国多地开展旅游市场专项整治，严查不合理低价游、宰客等违法违规行为。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/2344635.html
+</code><br></code></p><br><br><h3>今天给博客加了文章归档页面，按年份整理了所有发布过的内容。</h3><br><p>写技术文章的时候，别只说怎么做，要告诉读者你为什么这么选。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/830989.html
+</code><br></code></p><br><br><h3>重构角色模块的权限分配逻辑</h3><br><p>调整表单输入框的自动补全属性配置。<br><br>| 来源：<code>http://news.zytnjs.com/sports/41238.html
+</code><br></code></p><br><br><h3>GitHub App的权限配置很简单，只要给仓库写入权限就能管理博客内容。</h3><br><p>GitHub上的工程博客教会我，分享失败经验比炫耀成功更有价值。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/769334508.html
+</code><br></code></p><br><br><h3>我国汽车产销量连续18年稳居全球第一，产业竞争力持续提升。</h3><br><p>优化长列表的虚拟滚动内存回收机制。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/08168300.html
+</code><br></code></p><br><br><h3>全国多地开展家政服务人员技能提升培训，累计培训超百万名家政从业人员。</h3><br><p>修复页面缩放时表格布局错位的问题。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/8106052.html
+</code><br></code></p><br><br><h3>重构部门模块的人员权限范围判断逻辑</h3><br><p>重构通知模块的消息未读数统计逻辑。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/6185916.html
+</code><br></code></p><br><br><h3>我把博客的App ID妥善复制保存，配置环境变量的时候再也不会手忙脚乱。</h3><br><p>我每三个月就会主动轮换一次博客的GitHub App密钥，彻底杜绝密钥泄露带来的安全隐患。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/840627.html
+</code><br></code></p><br><br><h3>补充API文档中的接口调用示例代码</h3><br><p>更新Issue模板中的复现步骤填写指引。<br><br>| 来源：<code>http://news.zytnjs.com/sports/64367.html
+</code><br></code></p><br><br><h3>补充本地开发环境的Mock数据配置文件</h3><br><p>我国科学家在碳中和技术领域取得新进展，二氧化碳转化为化学品效率大幅提升。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/833556339.html
+</code><br></code></p><br><br><h3>我国汽车产销量连续18年稳居全球第一，产业竞争力持续提升。</h3><br><p>不用花一分钱的CDN费用，Vercel的全球节点能让全球任何地方的读者快速打开你的博客。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/92677027.html
+</code><br></code></p><br><br><h3>我在博客里分享的Webpack配置教程，很多开发者直接拿去用在了生产项目里。</h3><br><p>写技术文章的时候多放一些效果截图，读者跟着你操作的时候不会走偏。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/2451679.html
+</code><br></code></p><br><br><h3>写技术文章时多举一个生活化的类比，再抽象的技术概念也能瞬间变得通俗易懂。</h3><br><p>重构消息队列的消息死信处理逻辑。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/5779959.html
+</code><br></code></p><br><br><h3>很多人问我为什么选GitHub写博客，答案是它完全不会打断我的开发流。</h3><br><p>更新项目中的安全漏洞扫描配置规则。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/800394.html
+</code><br></code></p><br><br><h3>我在博客里分享的Web动画性能优化技巧，让很多页面的动画帧率稳定跑满60FPS。</h3><br><p>优质的技术博客，会在文末附上示例代码的仓库地址，方便读者直接下载运行。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/98556.html
+</code><br></code></p><br><br><h3>我国上半年文化产业营收同比增长超10%，数字文化产业成为增长核心动力。</h3><br><p>写技术文章的时候不要害怕承认自己走过的弯路，这些内容反而最有价值。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/242998379.html
+</code><br></code></p><br><br><h3>写技术文章之前先自己完整复现一遍步骤，能避免90%的内容疏漏和错误。</h3><br><p>补充数据库迁移脚本的版本管理文件。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/13000154.html
+</code><br></code></p><br><br><h3>今天给博客加了本地Markdown实时预览功能，写完代码提交前就能看到最终渲染效果。</h3><br><p>修复用户头像上传大小限制校验不生效的问题。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/3195951.html
+</code><br></code></p><br><br><h3>修复订单支付成功后回调通知丢失的问题</h3><br><p>重构多级缓存的缓存预热加载逻辑。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/6428351.html
+</code><br></code></p><br><br><h3>我搭建的这个开源GitHub博客项目，现在已经在GitHub上获得了两千多个Star。</h3><br><p>优质的技术博客，会主动在文末抛出讨论话题，引导读者在评论区交流不同的思路。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/608782.html
+</code><br></code></p><br><br><h3>我国上半年集成电路产量同比增长超20%，产业自主可控能力持续增强。</h3><br><p>今日北京白天多云有分散性雷阵雨，最高气温31℃，夜间转多云，尾号限行5和0。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/29232.html
+</code><br></code></p><br><br><h3>今天给每篇文章都加了GitHub Issue评论区的快速跳转按钮，读者可以直接去讨论区留言。</h3><br><p>今天优化了博客的移动端响应式布局，在小屏幕手机上阅读长文也不会觉得拥挤难受。。<br><br>| 来源：<code>http://article.bjjnljs.com/news/240575623.html
+</code><br></code></p><br><br><h3>很多人说自己不会写博客，其实你每天解决的问题都值得被记录下来。</h3><br><p>修复分页组件页码跳转异常的Bug。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/88978833.html
+</code><br></code></p><br><br><h3>把博客仓库的提交日志当成自己的技术成长日记，多年后回头看会满是感动。</h3><br><p>不用复杂的动态功能，纯静态博客的运行稳定性是所有博客类型里最高的，几乎零故障。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/3920304.html
+</code><br></code></p><br><br><h3>调整穿梭框组件的数据搜索过滤逻辑</h3><br><p>全国多地开展打击网络暴力专项行动，处置大量违规账号，净化网络空间环境。。<br><br>| 来源：<code>http://article.zhengzhouxinyuan.com/news/4463794.html
+</code><br></code></p><br><br><h3>我把博客的所有依赖都锁定了版本，不会因为依赖自动升级导致网站出现故障。</h3><br><p>今天给博客加了阅读完成的彩蛋提示，读者读完长文后会收到一个小小的鼓励反馈。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/339527.html
+</code><br></code></p><br><br><h3>写技术文章的时候用真实的错误截图，比你用文字描述一百遍都更加直观。</h3><br><p>我在博客里放了自己的联系方式，经常能收到读者发来的感谢邮件。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/96943.html
+</code><br></code></p><br><br><h3>我在博客里分享的Redis分布式锁实现方案，帮很多团队解决了线上并发超卖的问题。</h3><br><p>新增批量复制选中数据的功能。<br><br>| 来源：<code>http://article.bjjnljs.com/news/690374454.html
+</code><br></code></p><br><br><h3>今天收到一个读者的留言，说我的一篇老文章帮他在紧急线上故障中快速恢复了服务。</h3><br><p>写文章的时候标注清楚代码的来源，是对原作者最基本的尊重。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/64330081.html
+</code><br></code></p><br><br><h3>今天统计了博客的读者分布，发现有来自全世界几十个国家的开发者在看我的内容。</h3><br><p>靠谱的技术博文，会主动点明方案的适用边界，不会把单一方法吹成万能解药。。<br><br>| 来源：<code>http://news.jnlymd.com/lxwm/4795390.html
+</code><br></code></p><br><br><h3>今天给博客加了文章贡献者展示墙，所有帮我提交过PR的读者名字都会永久留在页面上。</h3><br><p>移除控制台中冗余的调试打印日志。<br><br>| 来源：<code>http://news.zhengzhouxinyuan.com/sports/116115.html
+</code><br></code></p><br><br><h3>坚持写博客三年之后，你会发现自己的技术影响力已经超出了自己最初的想象。</h3><br><p>今天删掉了博客里三个没用的依赖，页面加载速度快了整整一倍。。<br><br>| 来源：<code>http://article.zytnjs.com/news/79473.html
+</code><br></code></p><br><br><h3>修复用户密码重置链接过期时间校验失效的问题</h3><br><p>修复拖拽排序组件跨页排序数据错乱的Bug。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/637894551.html
+</code><br></code></p><br><br><h3>不用复杂的后台编辑器，直接在本地写Markdown，提交就自动部署。</h3><br><p>补充单元测试覆盖异常场景的处理逻辑。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/32735825.html
+</code><br></code></p><br><br><h3>国内多地推出绿色出行激励政策，鼓励市民乘坐公共交通、使用共享单车出行。</h3><br><p>GitHub博客最省心的地方，就是完全不用操心服务器运维和宕机问题。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/33930630.html
+</code><br></code></p><br><br><h3>调整时间选择器的可选时间范围限制</h3><br><p>市场监管总局就《大型游乐设施安全要求》强制性国标公开征求意见，全面筑牢游乐园和景区大型游乐设施安全底线。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/9946603.html
+</code><br></code></p><br><br><h3>修复接口请求时SQL注入的安全漏洞</h3><br><p>写博客的过程中，你会慢慢发现自己对技术的理解比以前深刻了好几个层次。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/511719.html
+</code><br></code></p><br><br><h3>补充单元测试覆盖异常场景的处理逻辑</h3><br><p>我把博客的部署脚本优化了一遍，现在提交代码之后十秒钟就能完成部署。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/92947.html
+</code><br></code></p><br><br><h3>优化数据库索引提升高频查询性能</h3><br><p>移除代码中未使用的第三方依赖包。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/15008.html
+</code><br></code></p><br><br><h3>写技术博客的第一步，永远是先把你踩过的坑原原本本记下来。</h3><br><p>更新贡献指南文档中的PR提交规范说明。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/992590208.html
+</code><br></code></p><br><br><h3>今天给博客加了暗黑模式，深夜写代码看文章再也不会晃眼睛。</h3><br><p>我在博客里分享的微前端路由隔离方案，帮很多团队解决了老系统迁移时的路由冲突问题。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/87864851.html
+</code><br></code></p><br><br><h3>我把博客的README写得非常详细，任何人拿到项目都能快速看懂怎么使用。</h3><br><p>移除页面中废弃的旧版静态资源文件。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/5578988.html
+</code><br></code></p><br><br><h3>修复登录接口的空指针异常</h3><br><p>GitHub上的优质博客，永远不会害怕分享自己踩过的那些低级错误。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/6603280.html
+</code><br></code></p><br><br><h3>写博客不用追求一开始就写出爆款，坚持写下去总会遇到懂你的读者。</h3><br><p>修复图片上传格式校验绕过的安全漏洞。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/076765.html
+</code><br></code></p><br><br><h3>我在博客里分享的Rust入门实战教程，帮很多开发者跨过了学习Rust的第一道门槛。</h3><br><p>今天把博客的主题色从深蓝改成了浅灰，阅读体验瞬间清爽了很多。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/44401.html
+</code><br></code></p><br><br><h3>调整日期范围选择器的快捷选项配置</h3><br><p>修复移动端页面适配错位问题。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/060790270.html
+</code><br></code></p><br><br><h3>新增数据导入时的错误数据提示导出功能</h3><br><p>不用复杂的动态渲染逻辑，纯静态博客的安全性是所有类型博客里最高的，几乎没有漏洞。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/164518856.html
+</code><br></code></p><br><br><h3>不用本地开发环境，直接在GitHub网页端编辑Markdown也能更新博客。</h3><br><p>更新项目中的版本发布说明文档。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/88496637.html
+</code><br></code></p><br><br><h3>今天收到读者的反馈，说我的一篇文章帮他解决了困扰团队整整一周的线上疑难故障。</h3><br><p>一篇好的技术文章，哪怕没有任何华丽的视觉样式，只要内容扎实就会被读者反复传阅。。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/5847751.html
+</code><br></code></p><br><br><h3>我国自主研发的高铁新型复兴号完成提速试验，最高运营时速可达400公里。</h3><br><p>移除页面中未使用的第三方组件引用。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/775287.html
+</code><br></code></p><br><br><h3>全国多地开展养老诈骗专项整治，严厉打击涉养老诈骗违法犯罪，守护老年人财产安全。</h3><br><p>今天修正了三年前文章里的一个错误，是读者提Issue告诉我的。。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/001391.html
+</code><br></code></p><br><br><h3>补充集成测试覆盖核心业务流转场景</h3><br><p>我国科学家在干细胞临床研究领域取得新突破，为多种疑难病症治疗提供新方案。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/18089.html
+</code><br></code></p><br><br><h3>我国首条跨海高铁累计发送旅客突破1亿人次，大幅提升东南沿海区域通勤效率。</h3><br><p>调整日期范围选择器的快捷选项配置。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/990753702.html
+</code><br></code></p><br><br><h3>修复接口请求时参数特殊字符转义错误的问题</h3><br><p>我把博客的GitHub App权限设置成了仅授权当前仓库，避免了不必要的安全隐患。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/18506534.html
+</code><br></code></p><br><br><h3>我搭建的开源博客项目，现在已经有几百个开发者在使用和二次开发。</h3><br><p>调整日历组件的日期可选范围限制。<br><br>| 来源：<code>http://m.zhengzhouxinyuan.com/zhibo/94652128.html
+</code><br></code></p><br><br><h3>更新Pull Request模板添加代码审查必填项</h3><br><p>写技术文章的时候多举一个真实的小例子，抽象的概念瞬间就会变得好懂。。<br><br>| 来源：<code>http://m.zytnjs.com/zhibo/7464373.html
+</code><br></code></p><br><br><h3>不用数据库，所有文章都以Markdown文件的形式存在仓库里。</h3><br><p>修复用户修改手机号后旧手机号仍可登录的问题。<br><br>| 来源：<code>http://m.bjjnljs.com/zhibo/126802.html
+</code><br></code></p><br><br><h3>我国新能源装机容量占比首次突破50%，能源绿色转型进程持续加快。</h3><br><p>写文章的时候用项目符号拆分要点，读者扫一眼就能抓住所有核心信息。。<br><br>| 来源：<code>http://m.jnlymd.com/gywm/74337.html
+</code><br></code></p><br><br><h3>修复页面缩放时组件布局错位的问题</h3><br><p>我在博客里分享的正则表达式技巧，帮到了很多正在入门的开发者。。<br><br>| 来源：<code>http://news.zytnjs.com/sports/449777085.html
+</code><br>
